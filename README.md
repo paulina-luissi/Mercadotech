@@ -1,6 +1,6 @@
-# Mercadotech
+ # Mercadotech
 
 Joel Acosta :wink:
 Rodrigo Ruiz
 Paulo Pintos
-Paulina Luissi
+Paulina Luissi :sunglasses:
